@@ -4,8 +4,8 @@ require "DamageLib"
 
 local Q = { Range = 880, Delay = 0.25, Speed = 1700, Width = 70}
 local W = { Range = 700, Delay = 0.25}
-local E = { Range = 925, Delay = 0.25, Speed = 1600, Width = 60}
-local R = { Range = 425, Delay = 0}
+local E = { Range = 980, Delay = 0.25, Speed = 1600, Width = 60}
+local R = { Range = 600, Delay = 0}
 
 local _EnemyHeroes
 local function GetEnemyHeroes()
